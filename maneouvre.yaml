@@ -1,5 +1,5 @@
 version: 0.1
 actions:
   definitions:
-    name: hello-world
-    run: echo this little maneuver is gonna cost us 51 years
+    - name: hello-world
+      run: echo this little maneuver is gonna cost us 51 years
