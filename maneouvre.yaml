@@ -3,3 +3,5 @@ actions:
   definitions:
     - id: hello-world
       run: echo this little maneuver is gonna cost us 51 years
+    - id: hello-trunk
+      run: echo hello trunk!
